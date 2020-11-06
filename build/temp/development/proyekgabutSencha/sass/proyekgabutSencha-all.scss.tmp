@@ -632,12 +632,15 @@ $include-ext-viewport-wp: dynamic(true);;
 $include-ext-viewport-windowsphone: dynamic(true);;
 $include-proyekgabutsencha-application: dynamic(true);;
 $include-proyekgabutsencha-store-personnel: dynamic(true);;
+$include-proyekgabutsencha-view-aboutme-biodata: dynamic(true);;
 $include-proyekgabutsencha-view-form-logincontroller: dynamic(true);;
 $include-proyekgabutsencha-view-login-login: dynamic(true);;
 $include-proyekgabutsencha-view-main-list: dynamic(true);;
 $include-proyekgabutsencha-view-main-main: dynamic(true);;
 $include-proyekgabutsencha-view-main-maincontroller: dynamic(true);;
 $include-proyekgabutsencha-view-main-mainmodel: dynamic(true);;
+$include-proyekgabutsencha-view-main-menu: dynamic(true);;
+$include-proyekgabutsencha-view-main-menuuser: dynamic(true);;
 $output-paths: ("path": "../resources");
 
 /* ======================== ETC ======================== */
